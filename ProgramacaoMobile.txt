@@ -1,2 +1,7 @@
 André Ferreira Nicácio
 4º periodo - ADS
+
+
+====> Fork:
+Ao clicar en fork no repositorio de outra pessoa, ele consegue pegar esse repositório completo e copiar para sua conta git,
+podendo assim editar esses arquivos e depois devolver a essa pessoa com as suas edições atualizadas.
